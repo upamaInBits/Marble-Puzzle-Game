@@ -1,0 +1,16 @@
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Upama_assignment_5\Controlz\FormDLL\obj\Debug\FormDLL.csproj.AssemblyReference.cache
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Upama_assignment_5\Controlz\FormDLL\obj\Debug\FormDLL.Clock.resources
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Upama_assignment_5\Controlz\FormDLL\obj\Debug\FormDLL.csproj.GenerateResource.cache
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Upama_assignment_5\Controlz\FormDLL\obj\Debug\FormDLL.csproj.CoreCompileInputs.cache
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Upama_assignment_5\Controlz\FormDLL\bin\Debug\FormDLL.dll
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Upama_assignment_5\Controlz\FormDLL\bin\Debug\FormDLL.pdb
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Upama_assignment_5\Controlz\FormDLL\obj\Debug\FormDLL.dll
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Upama_assignment_5\Controlz\FormDLL\obj\Debug\FormDLL.pdb
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Controlz\FormDLL\bin\Debug\FormDLL.dll
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Controlz\FormDLL\bin\Debug\FormDLL.pdb
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Controlz\FormDLL\obj\Debug\FormDLL.csproj.AssemblyReference.cache
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Controlz\FormDLL\obj\Debug\FormDLL.Clock.resources
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Controlz\FormDLL\obj\Debug\FormDLL.csproj.GenerateResource.cache
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Controlz\FormDLL\obj\Debug\FormDLL.csproj.CoreCompileInputs.cache
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Controlz\FormDLL\obj\Debug\FormDLL.dll
+C:\Users\upama\OneDrive\Desktop\Upama_assignment_6\Controlz\FormDLL\obj\Debug\FormDLL.pdb
