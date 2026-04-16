@@ -74,6 +74,10 @@ The application combines game logic, UI design, and data management, providing a
 
 ---
 
+## Screenshot
+<img width="619" height="405" alt="image" src="https://github.com/user-attachments/assets/287aa505-6feb-4ad3-8b50-49c91d33435e" />
+
+
 ## Project Structure
 
 * `Program.cs` → Entry point of the application
